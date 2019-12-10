@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: #008E19;
+}
+.bigbox {
+	display: flex;
+	
+	
+	
+	float: left;
+	padding-right: 100px;
+}
+
+.content {
+	
+	background-color: #008E19;
+	flex-direction: row;
+	padding-right:100px;
+	width: 250px;
+	length: 200px;
+	float: left;
+	
+}
+
+.bigbox2{
+	margin-top: 0px;
+	display: flex;
+	
+	
+	float: left;
+	padding-right: 100px;
+	
+	
+}
+
+.content2 {
+	
+	background-color: #008E19;
+	flex-direction: row;
+	padding-bottom: 40;
+	padding-right: 100px;
+	width: 250px;
+	length: 200px;
+	float: left;
+}
+
+.content3 {
+	background-color: #008E19;
+	flex-direction: row;
+	float: left;
+	padding-top: 0;
+	width: 250px;
+	length: 200px;
+	
+	
+}

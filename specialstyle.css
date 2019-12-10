@@ -1,0 +1,173 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#008E19;
+	
+}
+
+.content {
+	background-color:#008E19;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	padding-right:100px;
+	float: left;
+	
+}
+.content2 {
+	background-color:#008E19;
+	flex-direction: row;
+	padding-right: 100px;
+	width: 250px;
+	length: 200px;
+	float: left;
+	
+		
+}
+.content3 {
+	background-color:#008E19;
+	flex-direction: row;
+	padding-right: 100px;
+	width: 250px;
+	length: 200px;
+	float: left;
+	
+}
+
+.content4 {
+	background-color:#008E19;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+	
+}
+ 
+.content5 {
+	background-color:#008E19;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	padding-right:100px;
+	
+	
+}
+
+.content6{
+	background-color:#008E19;
+	flex-directon: row;
+	width: 250px;
+	length: 200px;
+	
+	float: left;
+	
+}
+
+.content7{
+	background-color:#008E19;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	float: left;
+}
+
+.content8{
+	background-color: #008E19;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+}
+
+.content9{
+	background-color:#008E19 ;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+	
+}
+
+.content10{
+	background-color: #008E19;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+}
+.content11{
+	background-color:#008E19 ;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+	
+}
+
+.content12{
+background-color:#008E19;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+	
+}
+.content13{
+	background-color: #008E19;
+	flex-directon: row;
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+	
+}
+.content14{
+	background-color: #008E19;
+	flex-direction: row; 
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+}
+.content15{
+	background-color: #008E19;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+}
+
+.content16{
+	background-color: #008E19;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+}
+.content17{
+	background-color: #008E19;
+	flex-directon: row;
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+	
+}
+
+.content18{
+	background-color: #008E19;
+	flex-direction: row;
+	width: 250px;
+	length: 200px;
+	padding-right: 100px;
+	float: left;
+}
